@@ -42,3 +42,930 @@ is_asset_anchored=true
 is_unlimited=false
 anchor_asset="ReverseLibre"
 anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="MOONSHOT"
+status="live"
+issuer="GBXN3ONPRC4TX4CQFYAOCMSFCZSUTR2U3GJWCVQ27Z2OKFWTW42HE2ZK"
+display_decimals=7
+name="MOONSHOT"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="MOONSHOT"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="ANUSINU"
+status="live"
+issuer="GBXN3ONPRC4TX4CQFYAOCMSFCZSUTR2U3GJWCVQ27Z2OKFWTW42HE2ZK"
+display_decimals=7
+name="ANUSINU"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="ANUSINU"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="ShitCoin"
+status="live"
+issuer="GBXN3ONPRC4TX4CQFYAOCMSFCZSUTR2U3GJWCVQ27Z2OKFWTW42HE2ZK"
+display_decimals=7
+name="ShitCoin"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="ShitCoin"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="FruityDude"
+status="live"
+issuer="GBXN3ONPRC4TX4CQFYAOCMSFCZSUTR2U3GJWCVQ27Z2OKFWTW42HE2ZK"
+display_decimals=7
+name="FruityDude"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="FruityDude"
+anchor_asset_type="crypto"
+[[CURRENCIES]]
+
+code="YLM"
+status="live"
+issuer="GBXN3ONPRC4TX4CQFYAOCMSFCZSUTR2U3GJWCVQ27Z2OKFWTW42HE2ZK"
+display_decimals=7
+name="YLM"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="YLM"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LOVE"
+status="live"
+issuer="GBXN3ONPRC4TX4CQFYAOCMSFCZSUTR2U3GJWCVQ27Z2OKFWTW42HE2ZK"
+display_decimals=7
+name="LOVE"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="LOVE"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LibreVolume"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LibreVolume"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LibreVolume"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yZOMB"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yZOMB"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yZOMB"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yFRED"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yFRED"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yFRED"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yLMT"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yLMT"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yLMT"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yLUMOS"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yLUMOS"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yLUMOS"
+anchor_asset_type="crypto" 
+
+[[CURRENCIES]]
+code="maxBREAD"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="maxBREAD"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="maxBREAD"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="200XLM"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="200XLM"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="200XLM"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yDWARF"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yDWARF"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yDWARF"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="100XLM"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="100XLM"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="100XLM"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="not100XLM"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="not100XLM"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="not100XLM"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yTATT"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yTATT"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yTATT"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yBBOI"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yBBOI"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yBBOI"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yGRACE"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yGRACE"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yGRACE"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="ReverseLibre"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="ReverseLibre"
+desc="Bringing Liquidity to tethered LIBRE Tokens"
+conditions="You are ready to become the next crypto millionaire"
+image="https://github.com/LibreXLM/img/blob/main/ReverseLibre.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="ReverseLibre"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="25XLM"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="25XLM"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="25XLM"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yLUMOS"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yLUMOS"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yLUMOS"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yYBXy"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yYBXy"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yYBXy"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yLSP"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yLSP"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yLSP"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yFRED"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yFRED"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yFRED"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yBASH"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yBASH"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yBASH"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LibreVolume"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LibreVolume"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LibreVolume"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LibreII"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LibreII"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LibreII"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LiBrE"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LiBrE"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LiBrE"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yVelo"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yVelo"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yVelo"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="ySHX"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="ySHX"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="ySHX"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yAFR"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yAFR"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yAFR"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="TreehouseVI"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="TreehouseVI"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="TreehouseVI"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="Libre100"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="Libre100"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="Libre100"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="Libre777"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="Libre777"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="Libre777"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yLMT"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yLMT"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yLMT"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yWALLY"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yWALLY"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yWALLY"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="EVA"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="EVA"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="EVA"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LibreXYZ"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LibreXYZ"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LibreXYZ"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yLibreXYZ"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yLibreXYZ"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yLibreXYZ"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yMEME"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yMEME"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yMEME"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yLMNR"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yLMNR"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yLMNR"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yApay"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yApay"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yApay"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yACT"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yACT"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yACT"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="ySCROOGE"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="ySCROOGE"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="ySCROOGE"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yJOHN"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yJOHN"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yJOHN"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="DicLibre"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="DicLibre"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="DicLibre"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LIBREBONER"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LIBREBONER"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LIBREBONER"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yPOYE"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yPOYE"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yPOYE"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yBLND"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yBLND"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yBLND"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LIBRE123"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LIBRE123"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LIBRE123"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="xXTAR"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="xXTAR"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="xXTAR"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="TestLibre"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="TestLibre"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="TestLibre"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LIBRA"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LIBRA"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LIBRA"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="xLIBRE"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="xLIBRE"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="xLIBRE"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LIBRO"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LIBRO"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LIBRO"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="xKIWI"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="xKIWI"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="xKIWI"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yKIWI"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yKIWI"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yKIWI"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LIBRE0"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LIBRE0"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LIBRE0"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LumenLibre"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LumenLibre"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LumenLibre"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="LIBREUSD"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="LIBREUSD"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="LIBREUSD"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yBRAINFROG"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yBRAINFROG"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yBRAINFROG"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yBEAR"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yBEAR"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yBEAR"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="yZOMB"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="yZOMB"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="yZOMB"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="ySIG"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="ySIG"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="ySIG"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="Libre420"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="Libre420"
+desc="Part of the LibreTradingEcosystem"
+conditions="Part of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="Libre420"
+anchor_asset_type="crypto"
+
+
+
