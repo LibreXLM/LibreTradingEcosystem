@@ -1,0 +1,44 @@
+VERSION="2.2.1"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+ACCOUNTS=["GAYCCWKECNGDRHYU3UTREBD2XLC3CUQN6FV22TKM4WCQER3IWR7TF5CY"]
+
+[DOCUMENTATION]
+ORG_NAME="LibreXLM"
+ORG_DESCRIPTION="An Autonomous experimental Trading Token on the Stellar Network"
+ORG_DBA="https://github.com/LibreXLM"
+ORG_URL="https://github.com/LibreXLM"
+ORG_LOGO= "https://github.com/LibreXLM/img/blob/main/LIBRE_PNG.jpg"
+ORG_OFFICIAL_EMAIL="librexlm@gmail.com"
+
+[[PRINCIPALS]]
+name="LIBRE"
+email="librexlm@gmail.com"
+github="LibreXLM"
+
+[[CURRENCIES]]
+code="LIBRE"
+status="live"
+issuer="GAYCCWKECNGDRHYU3UTREBD2XLC3CUQN6FV22TKM4WCQER3IWR7TF5CY"
+display_decimals=7
+name="LIBRE"
+desc="The Heart of the LibreTradingEcosystem"
+conditions="The Heart of the LibreTradingEcosystem"
+image="https://github.com/LibreXLM/img/blob/main/LIBRE_PNG.jpg"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="LIBRE"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="ReverseLibre"
+status="live"
+issuer="GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD"
+display_decimals=7
+name="ReverseLibre"
+desc="Bringing Liquidity to tethered LIBRE Tokens"
+conditions="You are ready to become the next crypto millionaire"
+image="https://github.com/LibreXLM/img/blob/main/ReverseLibre.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="ReverseLibre"
+anchor_asset_type="crypto"
