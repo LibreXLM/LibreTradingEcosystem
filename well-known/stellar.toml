@@ -629,3 +629,171 @@ is_asset_anchored=false
 is_unlimited=false
 anchor_asset="zLIBRE"
 anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="NFTInu"
+status="live"
+issuer="GD3ACA6FPINT4FDAA3YKR5M5OCDQ5NOQ24VW4TUMGKFENOLYO37UOD7Q"
+display_decimals=7
+name="NFTInu"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="NFTInu"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="xyz"
+status="live"
+issuer="GD3ACA6FPINT4FDAA3YKR5M5OCDQ5NOQ24VW4TUMGKFENOLYO37UOD7Q"
+display_decimals=7
+name="xyz"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="xyz"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="anAfrican"
+status="live"
+issuer="GD3ACA6FPINT4FDAA3YKR5M5OCDQ5NOQ24VW4TUMGKFENOLYO37UOD7Q"
+display_decimals=7
+name="anAfrican"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="anAfrican"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="aDic"
+status="live"
+issuer="GD3ACA6FPINT4FDAA3YKR5M5OCDQ5NOQ24VW4TUMGKFENOLYO37UOD7Q"
+display_decimals=7
+name="aDic"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="aDic"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="SBEZZY"
+status="live"
+issuer="GD3ACA6FPINT4FDAA3YKR5M5OCDQ5NOQ24VW4TUMGKFENOLYO37UOD7Q"
+display_decimals=7
+name="SBEZZY"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="SBEZZY"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="212121212121"
+status="live"
+issuer="GD3ACA6FPINT4FDAA3YKR5M5OCDQ5NOQ24VW4TUMGKFENOLYO37UOD7Q"
+display_decimals=7
+name="212121212121"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="212121212121"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="1312"
+status="live"
+issuer="GAGG42ACMQ3454R7GB6JUAKU6OPT4EXPW4QWYKEKBVYDQJC3ELGW74AX"
+display_decimals=7
+name="1312"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="1312"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="NoLibreToken"
+status="live"
+issuer="GAGG42ACMQ3454R7GB6JUAKU6OPT4EXPW4QWYKEKBVYDQJC3ELGW74AX"
+display_decimals=7
+name="NoLibreToken"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="NoLibreToken"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="xLSPx"
+status="live"
+issuer="GAGG42ACMQ3454R7GB6JUAKU6OPT4EXPW4QWYKEKBVYDQJC3ELGW74AX"
+display_decimals=7
+name="xLSPx"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="xLSPx"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="HODL"
+status="live"
+issuer="GAGG42ACMQ3454R7GB6JUAKU6OPT4EXPW4QWYKEKBVYDQJC3ELGW74AX"
+display_decimals=7
+name="HODL"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="HODL"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="DiemLibre"
+status="live"
+issuer="GAGG42ACMQ3454R7GB6JUAKU6OPT4EXPW4QWYKEKBVYDQJC3ELGW74AX"
+display_decimals=7
+name="DiemLibre"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="DiemLibre"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="xxXLM"
+status="live"
+issuer="GAGG42ACMQ3454R7GB6JUAKU6OPT4EXPW4QWYKEKBVYDQJC3ELGW74AX"
+display_decimals=7
+name="xxXLM"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="xxXLM"
+anchor_asset_type="crypto"
