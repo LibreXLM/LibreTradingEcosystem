@@ -797,3 +797,17 @@ is_asset_anchored=false
 is_unlimited=false
 anchor_asset="xxXLM"
 anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="DasKapital"
+status="live"
+issuer="GBJEIA7DSCBQS37XH6NYBVDVF6DDYM33DJRP6PIQQQNBQLSHHCUKVIDS"
+display_decimals=7
+name="DasKapital"
+desc="This token is part of the LibreTradingEcosystem, a network of interconnected assets that continuously trade against one another in AMM liquidity pools. The design goal is to study how coordinated pools, cross-pairs, and rebalancing can compound fees over time and translate pure trading activity into emergent value."
+conditions="This is a personal, experimental trading-system token for research and education. Crypto assets are highly volatile and you may lose your entire stake. There is no redemption right, no price peg, and no guarantees. The token does not represent equity, debt, custody, claims, dividends, or ownership, and confers no rights or expectations of profit from the issuer’s efforts. Supply and parameters may change without notice. Any value, if it arises at all, is intended to come solely from trading activity in automated market maker (AMM) liquidity pools. Use at your own risk; nothing here is investment, legal, or tax advice; access may be restricted by local law."
+image="https://github.com/LibreXLM/LibreTradingEcosystem/blob/main/LIBRE_PNG.png"
+is_asset_anchored=false
+is_unlimited=false
+anchor_asset="DasKapital"
+anchor_asset_type="crypto"
